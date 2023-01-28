@@ -13,12 +13,12 @@ function GaleriaApp() {
     }
   })
   return (
-    <div>
+    <>
       <Description/>
       <NavBar/>
       <Galeria/>
       <Buttons/>
-    </div>
+    </>
   )
 }
 
