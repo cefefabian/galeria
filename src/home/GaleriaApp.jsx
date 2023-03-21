@@ -1,5 +1,5 @@
 import NavBar from './components/NavBar'
-import Galeria from './components/galeria'
+import Galeria from './components/Galeria'
 import Buttons from './components/Buttons'
 import Description from './components/Description'
 
